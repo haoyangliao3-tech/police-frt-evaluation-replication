@@ -1,0 +1,33 @@
+{
+  "project": "Lucide",
+  "commit": null,
+  "retrieved": "2026-10-09",
+  "archive_method": "dated local copies with SHA-256 hashes",
+  "license_page": "https://lucide.dev/license",
+  "files": {
+    "users-round.svg": {
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users-round.svg",
+      "sha256": "8b41ee3ada1609e25a410d64056aa333952cf27d770f0c379a100065270de7f7",
+      "page": "https://lucide.dev/icons/users-round"
+    },
+    "scan-face.svg": {
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/scan-face.svg",
+      "sha256": "048cfc02382d4e19d20558f432da555bdcd0f738bcd8e56c261b4b4ec25cc491",
+      "page": "https://lucide.dev/icons/scan-face"
+    },
+    "shield.svg": {
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield.svg",
+      "sha256": "be32f6a86df7cbe43a83c439dd8849e5bcf5145e484d23420c20d8b98a78e82b",
+      "page": "https://lucide.dev/icons/shield"
+    },
+    "user-round.svg": {
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user-round.svg",
+      "sha256": "84870f26f3faf8da45da84174517519e81b9e8f00319c78954fcbb74f50038a1",
+      "page": "https://lucide.dev/icons/user-round"
+    },
+    "LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+    }
+  }
+}

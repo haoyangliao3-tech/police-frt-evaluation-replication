@@ -1,0 +1,13 @@
+﻿model,public,police,configuration_n,variable,code,label,configuration_category_n,model_category_n,model_category_weighted_share
+overall_interaction,2,3,92,F_GENDER,3.0,In some other way,0,27,0.006829726240047536
+overall_interaction,2,3,92,F_RACETHNMOD,5.0,Asian non-Hispanic,0,167,0.055750287263361765
+overall_interaction,3,2,251,F_GENDER,3.0,In some other way,0,27,0.006829726240047536
+a_B_interaction,2,3,92,F_GENDER,3.0,In some other way,0,27,0.006881900074403544
+a_B_interaction,2,3,92,F_RACETHNMOD,5.0,Asian non-Hispanic,0,167,0.05617617640602208
+a_B_interaction,3,2,248,F_GENDER,3.0,In some other way,0,27,0.006881900074403544
+b_B_interaction,2,3,90,F_GENDER,3.0,In some other way,0,27,0.006883756161934659
+b_B_interaction,2,3,90,F_RACETHNMOD,5.0,Asian non-Hispanic,0,167,0.05619132743981299
+b_B_interaction,3,2,249,F_GENDER,3.0,In some other way,0,27,0.006883756161934659
+c_B_interaction,2,3,92,F_GENDER,3.0,In some other way,0,27,0.006877831613401746
+c_B_interaction,2,3,92,F_RACETHNMOD,5.0,Asian non-Hispanic,0,167,0.05614296601638157
+c_B_interaction,3,2,249,F_GENDER,3.0,In some other way,0,27,0.006877831613401746

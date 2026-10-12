@@ -1,0 +1,21 @@
+# Never add restricted respondent-level data
+*.sav
+*.zsav
+*.por
+*.dta
+*.rds
+*.RData
+
+# Local execution artefacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+rerun_results/
+.validation_*/
+results/*.json
+results/*.log
+results/display_data/deletion_effects.csv
+results/display_data/focal_deletion.csv
+results/display_data/numerical_diagnostics.csv
+
